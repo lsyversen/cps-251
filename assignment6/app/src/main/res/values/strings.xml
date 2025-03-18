@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NavigationProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="button1">Display Image 1</string>
+    <string name="button2">Display Image 2</string>
+    <string name="button3">Display Image 3</string>
+    <string name="image1">Image 1</string>
+    <string name="image2">Image 2</string>
+    <string name="image3">Image 3</string>
+    <string name="placeholderImage">Placeholder Image</string>
+    <string name="textBox">Text Goes Here</string>
+</resources>
