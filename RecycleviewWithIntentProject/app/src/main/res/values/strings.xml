@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Recycleview With Intent Project</string>
+    <string name="title">Title</string>
+    <string name="detail">Detail</string>
+</resources>
